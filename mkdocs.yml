@@ -1,0 +1,8 @@
+site_name: "dadf"
+site_description: "asdf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

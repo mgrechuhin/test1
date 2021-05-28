@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "dadf"
+  description: "asdf"
+  annotations:
+    github.com/project-slug: mgrechuhin/test1
+    backstage.io/techdocs-ref: url:https://github.com/mgrechuhin/test1
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "mgrechuhin"
